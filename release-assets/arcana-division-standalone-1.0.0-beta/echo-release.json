@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "echo.pack.release.v1",
+  "id": "arcana-division-standalone-edition",
+  "name": "Arcana Division Standalone Edition",
+  "version": "1.0.0",
+  "channel": "beta",
+  "target": "standalone",
+  "releaseTag": "arcana-division-standalone-1.0.0-beta",
+  "generatedAt": "2026-06-12T09:47:04.237Z",
+  "sourceRepo": "https://github.com/knoxhack/ECHO-Arcana-Division-Standalone-Edition",
+  "moduleReleaseId": "modules-arcana-division-1.0.0-beta",
+  "moduleReleaseSource": "https://github.com/knoxhack/ECHO-Modules",
+  "moduleRequirementCount": 24,
+  "packRoot": {
+    "id": "echoarcanadivisionprotocol",
+    "version": "1.0.0"
+  },
+  "artifacts": {
+    "pack": {
+      "role": "pack",
+      "file": "arcana-division-standalone-edition-1.0.0.zip",
+      "sha256": "ecbbc927bed6f623e4df65c8bd8233a4e4bc6203fcede4f3d19428b6a56fba55",
+      "size": 96158687,
+      "url": "https://github.com/knoxhack/ECHO-Arcana-Division-Standalone-Edition/releases/download/arcana-division-standalone-1.0.0-beta/arcana-division-standalone-edition-1.0.0.zip"
+    },
+    "manifest": {
+      "role": "manifest",
+      "file": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
+      "sha256": "abde6fb7795ece59221563ebe4cc4aaf845f060becc591db5b32a44f53051a52",
+      "size": 23391,
+      "url": "https://github.com/knoxhack/ECHO-Arcana-Division-Standalone-Edition/releases/download/arcana-division-standalone-1.0.0-beta/arcana-division-standalone-edition-beta-1.0.0.pack.json"
+    }
+  },
+  "validation": {
+    "state": "warning",
+    "reason": "Local beta artifacts generated; promote to approved after GitHub release asset URLs, sizes, and hashes are indexed."
+  }
+}

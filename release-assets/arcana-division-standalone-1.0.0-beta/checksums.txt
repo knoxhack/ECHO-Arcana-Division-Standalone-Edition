@@ -1,0 +1,3 @@
+ecbbc927bed6f623e4df65c8bd8233a4e4bc6203fcede4f3d19428b6a56fba55  arcana-division-standalone-edition-1.0.0.zip
+abde6fb7795ece59221563ebe4cc4aaf845f060becc591db5b32a44f53051a52  arcana-division-standalone-edition-beta-1.0.0.pack.json
+eeb0676be3d6695082a3a95465627c59c1ddbda65734a0a9bbccae7ecb711027  echo-release.json

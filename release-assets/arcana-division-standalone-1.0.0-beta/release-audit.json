@@ -23,18 +23,18 @@
     },
     {
       "name": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
-      "size": 23391,
-      "sha256": "abde6fb7795ece59221563ebe4cc4aaf845f060becc591db5b32a44f53051a52"
+      "size": 33428,
+      "sha256": "d105c75780a3feb7167bb21f2c23850a5cac885a443f023c359122dd263eb6d4"
     },
     {
       "name": "checksums.txt",
       "size": 317,
-      "sha256": "176400f046dce5471c79f85b4f0684be6a20b3d5ded27896d1ee8e92ab4422e8"
+      "sha256": "45ac4b1da0384ed5987298d2cf58a3d3c0bf469ed7509fa5ea3d654cbd8bd9e3"
     },
     {
       "name": "echo-release.json",
-      "size": 1663,
-      "sha256": "eeb0676be3d6695082a3a95465627c59c1ddbda65734a0a9bbccae7ecb711027"
+      "size": 1829,
+      "sha256": "b7de526e9cb67ece6085f4c24079d85a6420149376b44622bb9313d39d7c7646"
     }
   ],
   "zip": {
@@ -61,20 +61,20 @@
     },
     {
       "file": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
-      "expectedSha256": "abde6fb7795ece59221563ebe4cc4aaf845f060becc591db5b32a44f53051a52",
-      "actualSha256": "abde6fb7795ece59221563ebe4cc4aaf845f060becc591db5b32a44f53051a52",
+      "expectedSha256": "d105c75780a3feb7167bb21f2c23850a5cac885a443f023c359122dd263eb6d4",
+      "actualSha256": "d105c75780a3feb7167bb21f2c23850a5cac885a443f023c359122dd263eb6d4",
       "coveredBy": "release-asset-file",
       "matchedPath": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
-      "size": 23391,
+      "size": 33428,
       "ok": true
     },
     {
       "file": "echo-release.json",
-      "expectedSha256": "eeb0676be3d6695082a3a95465627c59c1ddbda65734a0a9bbccae7ecb711027",
-      "actualSha256": "eeb0676be3d6695082a3a95465627c59c1ddbda65734a0a9bbccae7ecb711027",
+      "expectedSha256": "b7de526e9cb67ece6085f4c24079d85a6420149376b44622bb9313d39d7c7646",
+      "actualSha256": "b7de526e9cb67ece6085f4c24079d85a6420149376b44622bb9313d39d7c7646",
       "coveredBy": "release-asset-file",
       "matchedPath": "echo-release.json",
-      "size": 1663,
+      "size": 1829,
       "ok": true
     }
   ],

@@ -9,8 +9,8 @@
   "minecraft": "Standalone",
   "artifactMode": "zip",
   "artifactName": "arcana-division-standalone-edition-1.0.0.zip",
-  "artifactSha256": "e569ccb9a378925a3c2e97d58cad914d25b1f2b63566f0a6053d78439db6e5a4",
-  "artifactSize": 118455457,
+  "artifactSha256": "7501d8031394f325f1bdb89444937dd884c181ff352f53300d07302adb43caf5",
+  "artifactSize": 116852594,
   "moduleArtifactFamily": "standalone",
   "moduleReleaseId": "modules-arcana-division-1.0.0-beta",
   "moduleRequirements": [

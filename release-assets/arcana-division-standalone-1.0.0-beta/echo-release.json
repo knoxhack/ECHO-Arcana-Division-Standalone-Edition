@@ -6,12 +6,12 @@
   "channel": "beta",
   "releasedAt": "2026-06-14T01:26:59.706Z",
   "manifestAsset": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
-  "manifestSha256": "dd2db0e6b1fe25e585e75719e0d786b067e0c16dd2b4a88f8b7eef11f32d9a6c",
+  "manifestSha256": "63936ec153abb2e97269255b51a9f5cedf257e4e8a5cbadb8ce3968c6dbb22f0",
   "manifestSize": 53579,
   "artifactMode": "zip",
   "artifactAsset": "arcana-division-standalone-edition-1.0.0.zip",
-  "artifactSha256": "e4b3f143127905acec8f2d3109994f2f36968901ed06365baaebfdc2688475be",
-  "artifactSize": 116889106,
+  "artifactSha256": "7501d8031394f325f1bdb89444937dd884c181ff352f53300d07302adb43caf5",
+  "artifactSize": 116852594,
   "moduleRelease": "modules-all-official-modpacks-runtime-fix-20260614",
   "packs": [
     {
@@ -27,14 +27,14 @@
     {
       "name": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "dd2db0e6b1fe25e585e75719e0d786b067e0c16dd2b4a88f8b7eef11f32d9a6c",
+      "sha256": "63936ec153abb2e97269255b51a9f5cedf257e4e8a5cbadb8ce3968c6dbb22f0",
       "size": 53579
     },
     {
       "name": "arcana-division-standalone-edition-1.0.0.zip",
       "role": "pack-artifact",
-      "sha256": "e4b3f143127905acec8f2d3109994f2f36968901ed06365baaebfdc2688475be",
-      "size": 116889106
+      "sha256": "7501d8031394f325f1bdb89444937dd884c181ff352f53300d07302adb43caf5",
+      "size": 116852594
     },
     {
       "name": "echoadaptercore-1.0.0-standalone.jar",

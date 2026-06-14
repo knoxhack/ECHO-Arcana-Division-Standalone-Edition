@@ -6,11 +6,11 @@
   "version": "1.0.0",
   "channel": "beta",
   "target": "standalone",
-  "minecraft": "standalone",
+  "minecraft": "Standalone",
   "artifactMode": "zip",
   "artifactName": "arcana-division-standalone-edition-1.0.0.zip",
-  "artifactSha256": "5da00695bca221b4eae81cad293eb3e875c07d20c7eb81b9fd90bf0e4ba43e11",
-  "artifactSize": 7396,
+  "artifactSha256": "e569ccb9a378925a3c2e97d58cad914d25b1f2b63566f0a6053d78439db6e5a4",
+  "artifactSize": 118455457,
   "moduleArtifactFamily": "standalone",
   "moduleReleaseId": "modules-arcana-division-1.0.0-beta",
   "moduleRequirements": [
@@ -22,9 +22,9 @@
       "assetName": "echoadaptercore-1.0.0-standalone.jar",
       "artifactName": "echoadaptercore-1.0.0-standalone.jar",
       "path": "mods/echoadaptercore-1.0.0-standalone.jar",
-      "sha256": "b0640a9a0fef5903723939eb33fcc0090b7ad080ed3c86ef1efe8ca7a246a38d",
+      "sha256": "f8b2356c2867f42a7b03035870486e135a732ee83a257a3495090e490e347175",
       "size": 944417,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoadaptercore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoadaptercore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -36,9 +36,9 @@
       "assetName": "echoaetherworks-1.0.0-standalone.jar",
       "artifactName": "echoaetherworks-1.0.0-standalone.jar",
       "path": "mods/echoaetherworks-1.0.0-standalone.jar",
-      "sha256": "53ac9db66b2397484e93f38eee3d09d664b10045e80df23a82d85545bf4de389",
+      "sha256": "98b3eaa837ac4fbae7d9d750dd7922a67a8760780b976a9fc95bf23cccaa6dfa",
       "size": 91160,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoaetherworks-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoaetherworks-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -50,9 +50,9 @@
       "assetName": "echoarcanacore-1.0.0-standalone.jar",
       "artifactName": "echoarcanacore-1.0.0-standalone.jar",
       "path": "mods/echoarcanacore-1.0.0-standalone.jar",
-      "sha256": "81bd2d857977b377fc5c29fe2aca2b6ca55c66803e4d47989fd018ef18587def",
+      "sha256": "43d1c6dc9041c6fb36a00cfe792bb98dd5ee085470fe93bd87fd71693f83b1b3",
       "size": 127310,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoarcanacore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoarcanacore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -64,9 +64,9 @@
       "assetName": "echoarcanadivisionprotocol-1.0.0-standalone.jar",
       "artifactName": "echoarcanadivisionprotocol-1.0.0-standalone.jar",
       "path": "mods/echoarcanadivisionprotocol-1.0.0-standalone.jar",
-      "sha256": "5add766b825e904b82be8c85acfc939077753b90c66971259a145251ce623a0e",
+      "sha256": "16b4cb38bcaf76a055952f38565af30cf9baf829c5d1e8d140c61933d234a558",
       "size": 8358,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoarcanadivisionprotocol-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoarcanadivisionprotocol-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -78,9 +78,9 @@
       "assetName": "echoarcaneindex-1.0.0-standalone.jar",
       "artifactName": "echoarcaneindex-1.0.0-standalone.jar",
       "path": "mods/echoarcaneindex-1.0.0-standalone.jar",
-      "sha256": "77bf4dd3b93a54d4c21fd5b6334ab34ee23bf611ae5923c171cfadfc4a94b29a",
+      "sha256": "22a6baffbcae75f94369eb1a9386e1bbc99469115c15472cc97a875a02e76215",
       "size": 31393,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoarcaneindex-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoarcaneindex-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -92,9 +92,9 @@
       "assetName": "echoblockworks-1.0.0-standalone.jar",
       "artifactName": "echoblockworks-1.0.0-standalone.jar",
       "path": "mods/echoblockworks-1.0.0-standalone.jar",
-      "sha256": "3946ca4cc4b55d7fecb0e4701fd3d598e250829328fe936bc8a39889ac55363c",
+      "sha256": "bfd87641d05cdd5d3b4862cf96867666f6664bb0457a6fa439a9b77651c040ac",
       "size": 1302359,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoblockworks-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoblockworks-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -106,9 +106,9 @@
       "assetName": "echocodexcore-1.0.0-standalone.jar",
       "artifactName": "echocodexcore-1.0.0-standalone.jar",
       "path": "mods/echocodexcore-1.0.0-standalone.jar",
-      "sha256": "13804747dea3c28a5b8a114c7be5f2ef1bf8b640ce4506b03853bd37ff8cc727",
+      "sha256": "5fbb09f01fe788e1113a172df9d0fb05a174e45825132728f650b85721563b24",
       "size": 23040,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echocodexcore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocodexcore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -120,9 +120,9 @@
       "assetName": "echocommonloot-0.1.0-standalone.jar",
       "artifactName": "echocommonloot-0.1.0-standalone.jar",
       "path": "mods/echocommonloot-0.1.0-standalone.jar",
-      "sha256": "5e7d04987fef554a39217977cd7a970aa41134dfc17a4eaae940d8bb1abb8f21",
+      "sha256": "4a2fce1b3deaed086fa22b32ef5877ae369b34c4661b4c85e67242cb5e42288c",
       "size": 7770,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echocommonloot-0.1.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocommonloot-0.1.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -134,9 +134,9 @@
       "assetName": "echocontentcore-1.0.0-standalone.jar",
       "artifactName": "echocontentcore-1.0.0-standalone.jar",
       "path": "mods/echocontentcore-1.0.0-standalone.jar",
-      "sha256": "4bf49389a6413a009923463e3ecc23e1ce2ff9eaf4f8fadedf64c7796e21c9e0",
+      "sha256": "334d815405d4c9abca55e4294790d49e25b4c7fa98810b1c2773a95425184570",
       "size": 33258,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echocontentcore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocontentcore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -148,9 +148,9 @@
       "assetName": "echocore-1.0.0-standalone.jar",
       "artifactName": "echocore-1.0.0-standalone.jar",
       "path": "mods/echocore-1.0.0-standalone.jar",
-      "sha256": "08c840372906e0132b6ee5c403cb7965293d96a91492725cf5c58554a840eae9",
+      "sha256": "e4989e5087179d41362504faae6aa91e2d9064a17ca674c89671b2ad2920a891",
       "size": 368893,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echocore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -162,9 +162,9 @@
       "assetName": "echocreatureroles-0.1.0-standalone.jar",
       "artifactName": "echocreatureroles-0.1.0-standalone.jar",
       "path": "mods/echocreatureroles-0.1.0-standalone.jar",
-      "sha256": "0d63d4260b5f9312cbaeff27e652033e51b015e2bf37212b10ddbaba2d236bc2",
+      "sha256": "656f492baf2949ed74943051a0813a0504f5132607ee705ffd4450ff981a7459",
       "size": 7615,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echocreatureroles-0.1.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocreatureroles-0.1.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -176,9 +176,9 @@
       "assetName": "echocursecore-1.0.0-standalone.jar",
       "artifactName": "echocursecore-1.0.0-standalone.jar",
       "path": "mods/echocursecore-1.0.0-standalone.jar",
-      "sha256": "8ae6c4d141b6d882390939d725ce4a2c7f72c3bd03907ecac1432c6d902faca2",
+      "sha256": "d6612c8b6695e93f72d50ed342f06f8d6550afbd388cb5a383a138cf47580af7",
       "size": 64066,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echocursecore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocursecore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -190,9 +190,9 @@
       "assetName": "echofamiliarcore-1.0.0-standalone.jar",
       "artifactName": "echofamiliarcore-1.0.0-standalone.jar",
       "path": "mods/echofamiliarcore-1.0.0-standalone.jar",
-      "sha256": "ccbc8f243edf69d860a9c346782a03c09c430fce48bfc0017a0a046d8c8fc01f",
+      "sha256": "f5b9004bd9553498fe23c14aa84cd6cd057b08f106206ef041f24a3bf8a69344",
       "size": 50019,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echofamiliarcore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echofamiliarcore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -204,9 +204,9 @@
       "assetName": "echofoundationcore-0.1.0-standalone.jar",
       "artifactName": "echofoundationcore-0.1.0-standalone.jar",
       "path": "mods/echofoundationcore-0.1.0-standalone.jar",
-      "sha256": "08490039470e6eb12206bd25421fdce3e702208abbf784fc59c2b90d9e6a5f71",
+      "sha256": "cf357c5ae2ddaf95abb160dbfeb9d65fd3f04c246c07f1a77487dbd583146db3",
       "size": 10963,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echofoundationcore-0.1.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echofoundationcore-0.1.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -218,9 +218,9 @@
       "assetName": "echogrimoire-1.0.0-standalone.jar",
       "artifactName": "echogrimoire-1.0.0-standalone.jar",
       "path": "mods/echogrimoire-1.0.0-standalone.jar",
-      "sha256": "6d01ec0c81a853a1bb5ba5bed0665dd68a7c3a0569bdba1087ae2b3486a6b34d",
+      "sha256": "bfb986c4686159bbca0a0a6b90e61f36fadfd8af2f3e50cf18655b79bef0fc74",
       "size": 29510,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echogrimoire-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echogrimoire-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -232,9 +232,9 @@
       "assetName": "echoholomap-1.0.0-standalone.jar",
       "artifactName": "echoholomap-1.0.0-standalone.jar",
       "path": "mods/echoholomap-1.0.0-standalone.jar",
-      "sha256": "305795227dc6e05074437889e2e227bceedce829c8f8f321d2ff65310f16e58a",
+      "sha256": "f1fe84488044b9d310152ccf1476f9eb657a332c0787b697be5d9999146046cb",
       "size": 1496602,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoholomap-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoholomap-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -246,9 +246,9 @@
       "assetName": "echohudcore-1.0.0-standalone.jar",
       "artifactName": "echohudcore-1.0.0-standalone.jar",
       "path": "mods/echohudcore-1.0.0-standalone.jar",
-      "sha256": "e66159111bf5bd3d800c8a0b7cfc10359c15246abdb5543e7a775da6fad925e6",
-      "size": 46517,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echohudcore-1.0.0-standalone.jar",
+      "sha256": "82b4fac5799a85fb158c1f093fdd6a64f2438f0f7d7bbd39373d4f5cf024d3d8",
+      "size": 46577,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echohudcore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -260,9 +260,9 @@
       "assetName": "echoindex-1.0.0-standalone.jar",
       "artifactName": "echoindex-1.0.0-standalone.jar",
       "path": "mods/echoindex-1.0.0-standalone.jar",
-      "sha256": "85ca960ca80cc55e4d2d796c460c9aae4c63acbefa9e002160a071d04c5722b9",
+      "sha256": "c02cefd31551376e9fc43b026fbf6faf1f2e4ffd8fda110d266ff740e54bc3db",
       "size": 586916,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoindex-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoindex-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -274,9 +274,9 @@
       "assetName": "echolens-1.0.0-standalone.jar",
       "artifactName": "echolens-1.0.0-standalone.jar",
       "path": "mods/echolens-1.0.0-standalone.jar",
-      "sha256": "0cdee5ab200d5d7509c0707d589341ccad8d77e7573856a9bf11827feee51ce9",
+      "sha256": "63cba1ad0d28d846c1a39a3c63e85a421729157b4ad24f58cb299f243f71d0b2",
       "size": 215156,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echolens-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echolens-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -288,9 +288,9 @@
       "assetName": "echomaterialcore-0.1.0-standalone.jar",
       "artifactName": "echomaterialcore-0.1.0-standalone.jar",
       "path": "mods/echomaterialcore-0.1.0-standalone.jar",
-      "sha256": "c3db8054732ab7d58e173ddc270a56f8d32891ac2eb9d480a3a4cc5a2f69b8b3",
+      "sha256": "4e034b9e835d351d182851beb258134545d063ba9d9bce31fec3a130f5f54934",
       "size": 13223,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echomaterialcore-0.1.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echomaterialcore-0.1.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -302,9 +302,9 @@
       "assetName": "echomissioncore-1.0.0-standalone.jar",
       "artifactName": "echomissioncore-1.0.0-standalone.jar",
       "path": "mods/echomissioncore-1.0.0-standalone.jar",
-      "sha256": "77300c0c65c0235bf933bf2d3445ada81f92029d3adce4eaa8e35f389c9564c4",
+      "sha256": "bdc49ff2239e75f9fe8018823d2b47c4c1d7d4a9fc3c424c73e8f647fc72a455",
       "size": 103747,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echomissioncore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echomissioncore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -316,9 +316,9 @@
       "assetName": "echonetcore-1.0.0-standalone.jar",
       "artifactName": "echonetcore-1.0.0-standalone.jar",
       "path": "mods/echonetcore-1.0.0-standalone.jar",
-      "sha256": "aaf569138b2dbf922077ac082e87dea877019d51d535fcf7ef795fb81fe9b51e",
+      "sha256": "7a293a81fc5719adb3e022352505d30f5a61b516ac292e7b4c3961c8c15b9fe3",
       "size": 68877,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echonetcore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echonetcore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -330,9 +330,9 @@
       "assetName": "echoplatformcore-1.0.0-standalone.jar",
       "artifactName": "echoplatformcore-1.0.0-standalone.jar",
       "path": "mods/echoplatformcore-1.0.0-standalone.jar",
-      "sha256": "08ffab62ed5577e0dda88c20ecb959b81d27c2527d9e60db845fd4fdc1948d60",
+      "sha256": "73b166174099e4997f1fd129306050a230b977fb00fc1b92e08237e81cd37061",
       "size": 46626,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoplatformcore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoplatformcore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -344,9 +344,9 @@
       "assetName": "echorelictech-1.0.0-standalone.jar",
       "artifactName": "echorelictech-1.0.0-standalone.jar",
       "path": "mods/echorelictech-1.0.0-standalone.jar",
-      "sha256": "a4a59fd878383d5c142347458be882be4b768f3778fe4a41552651076f0b09a9",
+      "sha256": "b1865e61a0e52665cc1f7b8fd3c62d1096aa04fa0dc30894a8f10ea7d0bdef0b",
       "size": 7709166,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echorelictech-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echorelictech-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -358,9 +358,9 @@
       "assetName": "echoriftworlds-1.0.0-standalone.jar",
       "artifactName": "echoriftworlds-1.0.0-standalone.jar",
       "path": "mods/echoriftworlds-1.0.0-standalone.jar",
-      "sha256": "ad052a16b6936fe8235f8d169286ab3c3f1ef58251318cd0f4e3a0826287a77b",
+      "sha256": "49ba4059e5557dacc6db2812f6ddc89b0368ee026556a94c49afaab49bd8c8b2",
       "size": 33380,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoriftworlds-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoriftworlds-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -372,9 +372,9 @@
       "assetName": "echoritualcore-1.0.0-standalone.jar",
       "artifactName": "echoritualcore-1.0.0-standalone.jar",
       "path": "mods/echoritualcore-1.0.0-standalone.jar",
-      "sha256": "08945958e257c53ed4b6f5cdbea828e129297c53aa8c56d43ebac58e3099929e",
+      "sha256": "2fd1d923577731d21987fd98226cade880ec92530d490de2266040d9090c1edb",
       "size": 105120,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoritualcore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoritualcore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -386,9 +386,9 @@
       "assetName": "echoruntimeguard-1.0.0-standalone.jar",
       "artifactName": "echoruntimeguard-1.0.0-standalone.jar",
       "path": "mods/echoruntimeguard-1.0.0-standalone.jar",
-      "sha256": "46679ab9bf1e6df1eb467fb61444ff11828abffd95259732661a4ef022e90e79",
+      "sha256": "927979d825103b3704f2e5481a598df6ee90542cb5efd6dc02bdab30cf701b43",
       "size": 127439,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoruntimeguard-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoruntimeguard-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -400,9 +400,9 @@
       "assetName": "echoschemacore-1.0.0-standalone.jar",
       "artifactName": "echoschemacore-1.0.0-standalone.jar",
       "path": "mods/echoschemacore-1.0.0-standalone.jar",
-      "sha256": "ebc8a5ab443d5c4550e75034b6c9e1d3ff257632ce192627c8d03ad115746f31",
+      "sha256": "8d95627cb483f60184490aa5d809628848b4b40cf02e11494b2e5030187d888b",
       "size": 30695,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoschemacore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoschemacore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -414,9 +414,9 @@
       "assetName": "echoscreencore-1.0.0-standalone.jar",
       "artifactName": "echoscreencore-1.0.0-standalone.jar",
       "path": "mods/echoscreencore-1.0.0-standalone.jar",
-      "sha256": "f6bffe016051bbb1ad97c23665c6390a032a47a094319b234223fbd0f25849e1",
+      "sha256": "4bd8de068be34d641fd5414c9c1869c2241ad9ca7624c4302c06d6775719fbea",
       "size": 392453,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoscreencore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoscreencore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -428,9 +428,9 @@
       "assetName": "echosoundcore-1.0.0-standalone.jar",
       "artifactName": "echosoundcore-1.0.0-standalone.jar",
       "path": "mods/echosoundcore-1.0.0-standalone.jar",
-      "sha256": "17d05320e6c2a1350cc1ec056d143e5f69e816ce739834f8dd16ba0546631e8a",
+      "sha256": "d0ceadd62374ff5a9fa4911a2a9bc0276e4b0ed3ac033a8bc5f1cc2bd7e2768b",
       "size": 11079841,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echosoundcore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echosoundcore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -442,9 +442,9 @@
       "assetName": "echospellcore-1.0.0-standalone.jar",
       "artifactName": "echospellcore-1.0.0-standalone.jar",
       "path": "mods/echospellcore-1.0.0-standalone.jar",
-      "sha256": "5f99260365138d7c720359e23d59fa5124739554f3477b31cccfb3ee617696d2",
+      "sha256": "4875422f7f7dfbeeb62ccf5d6f566aaabcef70ef373f876fc41f14b26d2e39ad",
       "size": 167040,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echospellcore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echospellcore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -456,9 +456,9 @@
       "assetName": "echostationcore-0.1.0-standalone.jar",
       "artifactName": "echostationcore-0.1.0-standalone.jar",
       "path": "mods/echostationcore-0.1.0-standalone.jar",
-      "sha256": "79051d67b7996f6f8497ff5d7925c7988ac62417fd4cd12391386268c4823af1",
+      "sha256": "6beb982df3fd5b15cfede6b9292aaa7b082ff24c7f2d93032e4a2560ff952ec0",
       "size": 9170,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echostationcore-0.1.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echostationcore-0.1.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -470,9 +470,9 @@
       "assetName": "echoterminal-1.0.0-standalone.jar",
       "artifactName": "echoterminal-1.0.0-standalone.jar",
       "path": "mods/echoterminal-1.0.0-standalone.jar",
-      "sha256": "d3fccd81a0247b588a04ff9bd44181d4957cbc36b32848f7ec62a736d1567251",
+      "sha256": "4453978b180ef4b2df6a4e81caae9e1618f4772e1d3f519a4af1573f93aa3c02",
       "size": 22986185,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoterminal-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoterminal-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -484,9 +484,9 @@
       "assetName": "echothemecore-1.3.0-standalone.jar",
       "artifactName": "echothemecore-1.3.0-standalone.jar",
       "path": "mods/echothemecore-1.3.0-standalone.jar",
-      "sha256": "de1dfe5e380809dea72dc9794b2f6eff12f9285825f8a5c460d35cff7aebdfe6",
+      "sha256": "bd5bee32d68e3bb711722dd1c4b65a077a8b0e000a597fcacbc55e03ed7bee24",
       "size": 69621167,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echothemecore-1.3.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echothemecore-1.3.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -498,9 +498,9 @@
       "assetName": "echotoolcore-0.1.0-standalone.jar",
       "artifactName": "echotoolcore-0.1.0-standalone.jar",
       "path": "mods/echotoolcore-0.1.0-standalone.jar",
-      "sha256": "55c8249566926f27d29d204bcc9b9759cc6a6b7e45457db32ceff5e268db3989",
+      "sha256": "2fba09fdaf6baccca49581624cac97381658d659d138f33720c57b87e10adfee",
       "size": 8982,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echotoolcore-0.1.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echotoolcore-0.1.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -512,9 +512,9 @@
       "assetName": "echotutorialcore-1.0.0-standalone.jar",
       "artifactName": "echotutorialcore-1.0.0-standalone.jar",
       "path": "mods/echotutorialcore-1.0.0-standalone.jar",
-      "sha256": "e30319203f0d26be27672fe3cf1077325b8ce08826e99d352051cfeec07c06d3",
+      "sha256": "e18dd55ce11850370934cd78dedaf879b83e77e655aa4bf07563de1e046df76c",
       "size": 214981,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echotutorialcore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echotutorialcore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -526,9 +526,9 @@
       "assetName": "echovalidationcore-1.0.0-standalone.jar",
       "artifactName": "echovalidationcore-1.0.0-standalone.jar",
       "path": "mods/echovalidationcore-1.0.0-standalone.jar",
-      "sha256": "3752f1c046db9c93b79927af0b0b8b20380e1e28fbd9438a7a0945283fb709b5",
+      "sha256": "cb225e62372b01b27d853d42aadd8bf0d65def28b9edc8891e4d8826ffcd8170",
       "size": 41988,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echovalidationcore-1.0.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echovalidationcore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -540,9 +540,9 @@
       "assetName": "echoworldcore-1.0.0-standalone.jar",
       "artifactName": "echoworldcore-1.0.0-standalone.jar",
       "path": "mods/echoworldcore-1.0.0-standalone.jar",
-      "sha256": "3085dd429bb371b90550e48cbe74a8eed6f2145cbabc5587f3af0415f377fed6",
-      "size": 176866,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoworldcore-1.0.0-standalone.jar",
+      "sha256": "726023c813ae3bc321f1ea988731373ae190170fa04f677e2693686df81ce0a4",
+      "size": 177323,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoworldcore-1.0.0-standalone.jar",
       "required": true,
       "side": "both"
     },
@@ -554,9 +554,9 @@
       "assetName": "echoworldstarter-0.1.0-standalone.jar",
       "artifactName": "echoworldstarter-0.1.0-standalone.jar",
       "path": "mods/echoworldstarter-0.1.0-standalone.jar",
-      "sha256": "a48cd5fcd4ea099f5c1868992c780a76fbf99a258e4a0ab0c565476fa2ef8ff9",
+      "sha256": "6a28e67c43e5a316543fdb92c2c1a0ac029e76c959fa72fd72f31369e400bd3d",
       "size": 10295,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoworldstarter-0.1.0-standalone.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoworldstarter-0.1.0-standalone.jar",
       "required": true,
       "side": "both"
     }
@@ -842,10 +842,9 @@
     {
       "path": "mods/echoadaptercore-1.0.0-standalone.jar",
       "assetName": "echoadaptercore-1.0.0-standalone.jar",
-      "artifactName": "echoadaptercore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoadaptercore-1.0.0-standalone.jar",
-      "sha256": "b0640a9a0fef5903723939eb33fcc0090b7ad080ed3c86ef1efe8ca7a246a38d",
+      "sha256": "f8b2356c2867f42a7b03035870486e135a732ee83a257a3495090e490e347175",
       "size": 944417,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoadaptercore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoadaptercore",
       "side": "both"
@@ -853,10 +852,9 @@
     {
       "path": "mods/echoaetherworks-1.0.0-standalone.jar",
       "assetName": "echoaetherworks-1.0.0-standalone.jar",
-      "artifactName": "echoaetherworks-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoaetherworks-1.0.0-standalone.jar",
-      "sha256": "53ac9db66b2397484e93f38eee3d09d664b10045e80df23a82d85545bf4de389",
+      "sha256": "98b3eaa837ac4fbae7d9d750dd7922a67a8760780b976a9fc95bf23cccaa6dfa",
       "size": 91160,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoaetherworks-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoaetherworks",
       "side": "both"
@@ -864,10 +862,9 @@
     {
       "path": "mods/echoarcanacore-1.0.0-standalone.jar",
       "assetName": "echoarcanacore-1.0.0-standalone.jar",
-      "artifactName": "echoarcanacore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoarcanacore-1.0.0-standalone.jar",
-      "sha256": "81bd2d857977b377fc5c29fe2aca2b6ca55c66803e4d47989fd018ef18587def",
+      "sha256": "43d1c6dc9041c6fb36a00cfe792bb98dd5ee085470fe93bd87fd71693f83b1b3",
       "size": 127310,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoarcanacore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoarcanacore",
       "side": "both"
@@ -875,10 +872,9 @@
     {
       "path": "mods/echoarcanadivisionprotocol-1.0.0-standalone.jar",
       "assetName": "echoarcanadivisionprotocol-1.0.0-standalone.jar",
-      "artifactName": "echoarcanadivisionprotocol-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoarcanadivisionprotocol-1.0.0-standalone.jar",
-      "sha256": "5add766b825e904b82be8c85acfc939077753b90c66971259a145251ce623a0e",
+      "sha256": "16b4cb38bcaf76a055952f38565af30cf9baf829c5d1e8d140c61933d234a558",
       "size": 8358,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoarcanadivisionprotocol-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoarcanadivisionprotocol",
       "side": "both"
@@ -886,10 +882,9 @@
     {
       "path": "mods/echoarcaneindex-1.0.0-standalone.jar",
       "assetName": "echoarcaneindex-1.0.0-standalone.jar",
-      "artifactName": "echoarcaneindex-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoarcaneindex-1.0.0-standalone.jar",
-      "sha256": "77bf4dd3b93a54d4c21fd5b6334ab34ee23bf611ae5923c171cfadfc4a94b29a",
+      "sha256": "22a6baffbcae75f94369eb1a9386e1bbc99469115c15472cc97a875a02e76215",
       "size": 31393,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoarcaneindex-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoarcaneindex",
       "side": "both"
@@ -897,10 +892,9 @@
     {
       "path": "mods/echoblockworks-1.0.0-standalone.jar",
       "assetName": "echoblockworks-1.0.0-standalone.jar",
-      "artifactName": "echoblockworks-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoblockworks-1.0.0-standalone.jar",
-      "sha256": "3946ca4cc4b55d7fecb0e4701fd3d598e250829328fe936bc8a39889ac55363c",
+      "sha256": "bfd87641d05cdd5d3b4862cf96867666f6664bb0457a6fa439a9b77651c040ac",
       "size": 1302359,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoblockworks-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoblockworks",
       "side": "both"
@@ -908,10 +902,9 @@
     {
       "path": "mods/echocodexcore-1.0.0-standalone.jar",
       "assetName": "echocodexcore-1.0.0-standalone.jar",
-      "artifactName": "echocodexcore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echocodexcore-1.0.0-standalone.jar",
-      "sha256": "13804747dea3c28a5b8a114c7be5f2ef1bf8b640ce4506b03853bd37ff8cc727",
+      "sha256": "5fbb09f01fe788e1113a172df9d0fb05a174e45825132728f650b85721563b24",
       "size": 23040,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocodexcore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echocodexcore",
       "side": "both"
@@ -919,10 +912,9 @@
     {
       "path": "mods/echocommonloot-0.1.0-standalone.jar",
       "assetName": "echocommonloot-0.1.0-standalone.jar",
-      "artifactName": "echocommonloot-0.1.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echocommonloot-0.1.0-standalone.jar",
-      "sha256": "5e7d04987fef554a39217977cd7a970aa41134dfc17a4eaae940d8bb1abb8f21",
+      "sha256": "4a2fce1b3deaed086fa22b32ef5877ae369b34c4661b4c85e67242cb5e42288c",
       "size": 7770,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocommonloot-0.1.0-standalone.jar",
       "required": true,
       "moduleId": "echocommonloot",
       "side": "both"
@@ -930,10 +922,9 @@
     {
       "path": "mods/echocontentcore-1.0.0-standalone.jar",
       "assetName": "echocontentcore-1.0.0-standalone.jar",
-      "artifactName": "echocontentcore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echocontentcore-1.0.0-standalone.jar",
-      "sha256": "4bf49389a6413a009923463e3ecc23e1ce2ff9eaf4f8fadedf64c7796e21c9e0",
+      "sha256": "334d815405d4c9abca55e4294790d49e25b4c7fa98810b1c2773a95425184570",
       "size": 33258,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocontentcore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echocontentcore",
       "side": "both"
@@ -941,10 +932,9 @@
     {
       "path": "mods/echocore-1.0.0-standalone.jar",
       "assetName": "echocore-1.0.0-standalone.jar",
-      "artifactName": "echocore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echocore-1.0.0-standalone.jar",
-      "sha256": "08c840372906e0132b6ee5c403cb7965293d96a91492725cf5c58554a840eae9",
+      "sha256": "e4989e5087179d41362504faae6aa91e2d9064a17ca674c89671b2ad2920a891",
       "size": 368893,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echocore",
       "side": "both"
@@ -952,10 +942,9 @@
     {
       "path": "mods/echocreatureroles-0.1.0-standalone.jar",
       "assetName": "echocreatureroles-0.1.0-standalone.jar",
-      "artifactName": "echocreatureroles-0.1.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echocreatureroles-0.1.0-standalone.jar",
-      "sha256": "0d63d4260b5f9312cbaeff27e652033e51b015e2bf37212b10ddbaba2d236bc2",
+      "sha256": "656f492baf2949ed74943051a0813a0504f5132607ee705ffd4450ff981a7459",
       "size": 7615,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocreatureroles-0.1.0-standalone.jar",
       "required": true,
       "moduleId": "echocreatureroles",
       "side": "both"
@@ -963,10 +952,9 @@
     {
       "path": "mods/echocursecore-1.0.0-standalone.jar",
       "assetName": "echocursecore-1.0.0-standalone.jar",
-      "artifactName": "echocursecore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echocursecore-1.0.0-standalone.jar",
-      "sha256": "8ae6c4d141b6d882390939d725ce4a2c7f72c3bd03907ecac1432c6d902faca2",
+      "sha256": "d6612c8b6695e93f72d50ed342f06f8d6550afbd388cb5a383a138cf47580af7",
       "size": 64066,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocursecore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echocursecore",
       "side": "both"
@@ -974,10 +962,9 @@
     {
       "path": "mods/echofamiliarcore-1.0.0-standalone.jar",
       "assetName": "echofamiliarcore-1.0.0-standalone.jar",
-      "artifactName": "echofamiliarcore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echofamiliarcore-1.0.0-standalone.jar",
-      "sha256": "ccbc8f243edf69d860a9c346782a03c09c430fce48bfc0017a0a046d8c8fc01f",
+      "sha256": "f5b9004bd9553498fe23c14aa84cd6cd057b08f106206ef041f24a3bf8a69344",
       "size": 50019,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echofamiliarcore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echofamiliarcore",
       "side": "both"
@@ -985,10 +972,9 @@
     {
       "path": "mods/echofoundationcore-0.1.0-standalone.jar",
       "assetName": "echofoundationcore-0.1.0-standalone.jar",
-      "artifactName": "echofoundationcore-0.1.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echofoundationcore-0.1.0-standalone.jar",
-      "sha256": "08490039470e6eb12206bd25421fdce3e702208abbf784fc59c2b90d9e6a5f71",
+      "sha256": "cf357c5ae2ddaf95abb160dbfeb9d65fd3f04c246c07f1a77487dbd583146db3",
       "size": 10963,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echofoundationcore-0.1.0-standalone.jar",
       "required": true,
       "moduleId": "echofoundationcore",
       "side": "both"
@@ -996,10 +982,9 @@
     {
       "path": "mods/echogrimoire-1.0.0-standalone.jar",
       "assetName": "echogrimoire-1.0.0-standalone.jar",
-      "artifactName": "echogrimoire-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echogrimoire-1.0.0-standalone.jar",
-      "sha256": "6d01ec0c81a853a1bb5ba5bed0665dd68a7c3a0569bdba1087ae2b3486a6b34d",
+      "sha256": "bfb986c4686159bbca0a0a6b90e61f36fadfd8af2f3e50cf18655b79bef0fc74",
       "size": 29510,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echogrimoire-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echogrimoire",
       "side": "both"
@@ -1007,10 +992,9 @@
     {
       "path": "mods/echoholomap-1.0.0-standalone.jar",
       "assetName": "echoholomap-1.0.0-standalone.jar",
-      "artifactName": "echoholomap-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoholomap-1.0.0-standalone.jar",
-      "sha256": "305795227dc6e05074437889e2e227bceedce829c8f8f321d2ff65310f16e58a",
+      "sha256": "f1fe84488044b9d310152ccf1476f9eb657a332c0787b697be5d9999146046cb",
       "size": 1496602,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoholomap-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoholomap",
       "side": "both"
@@ -1018,10 +1002,9 @@
     {
       "path": "mods/echohudcore-1.0.0-standalone.jar",
       "assetName": "echohudcore-1.0.0-standalone.jar",
-      "artifactName": "echohudcore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echohudcore-1.0.0-standalone.jar",
-      "sha256": "e66159111bf5bd3d800c8a0b7cfc10359c15246abdb5543e7a775da6fad925e6",
-      "size": 46517,
+      "sha256": "82b4fac5799a85fb158c1f093fdd6a64f2438f0f7d7bbd39373d4f5cf024d3d8",
+      "size": 46577,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echohudcore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echohudcore",
       "side": "both"
@@ -1029,10 +1012,9 @@
     {
       "path": "mods/echoindex-1.0.0-standalone.jar",
       "assetName": "echoindex-1.0.0-standalone.jar",
-      "artifactName": "echoindex-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoindex-1.0.0-standalone.jar",
-      "sha256": "85ca960ca80cc55e4d2d796c460c9aae4c63acbefa9e002160a071d04c5722b9",
+      "sha256": "c02cefd31551376e9fc43b026fbf6faf1f2e4ffd8fda110d266ff740e54bc3db",
       "size": 586916,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoindex-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoindex",
       "side": "both"
@@ -1040,10 +1022,9 @@
     {
       "path": "mods/echolens-1.0.0-standalone.jar",
       "assetName": "echolens-1.0.0-standalone.jar",
-      "artifactName": "echolens-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echolens-1.0.0-standalone.jar",
-      "sha256": "0cdee5ab200d5d7509c0707d589341ccad8d77e7573856a9bf11827feee51ce9",
+      "sha256": "63cba1ad0d28d846c1a39a3c63e85a421729157b4ad24f58cb299f243f71d0b2",
       "size": 215156,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echolens-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echolens",
       "side": "both"
@@ -1051,10 +1032,9 @@
     {
       "path": "mods/echomaterialcore-0.1.0-standalone.jar",
       "assetName": "echomaterialcore-0.1.0-standalone.jar",
-      "artifactName": "echomaterialcore-0.1.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echomaterialcore-0.1.0-standalone.jar",
-      "sha256": "c3db8054732ab7d58e173ddc270a56f8d32891ac2eb9d480a3a4cc5a2f69b8b3",
+      "sha256": "4e034b9e835d351d182851beb258134545d063ba9d9bce31fec3a130f5f54934",
       "size": 13223,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echomaterialcore-0.1.0-standalone.jar",
       "required": true,
       "moduleId": "echomaterialcore",
       "side": "both"
@@ -1062,10 +1042,9 @@
     {
       "path": "mods/echomissioncore-1.0.0-standalone.jar",
       "assetName": "echomissioncore-1.0.0-standalone.jar",
-      "artifactName": "echomissioncore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echomissioncore-1.0.0-standalone.jar",
-      "sha256": "77300c0c65c0235bf933bf2d3445ada81f92029d3adce4eaa8e35f389c9564c4",
+      "sha256": "bdc49ff2239e75f9fe8018823d2b47c4c1d7d4a9fc3c424c73e8f647fc72a455",
       "size": 103747,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echomissioncore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echomissioncore",
       "side": "both"
@@ -1073,10 +1052,9 @@
     {
       "path": "mods/echonetcore-1.0.0-standalone.jar",
       "assetName": "echonetcore-1.0.0-standalone.jar",
-      "artifactName": "echonetcore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echonetcore-1.0.0-standalone.jar",
-      "sha256": "aaf569138b2dbf922077ac082e87dea877019d51d535fcf7ef795fb81fe9b51e",
+      "sha256": "7a293a81fc5719adb3e022352505d30f5a61b516ac292e7b4c3961c8c15b9fe3",
       "size": 68877,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echonetcore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echonetcore",
       "side": "both"
@@ -1084,10 +1062,9 @@
     {
       "path": "mods/echoplatformcore-1.0.0-standalone.jar",
       "assetName": "echoplatformcore-1.0.0-standalone.jar",
-      "artifactName": "echoplatformcore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoplatformcore-1.0.0-standalone.jar",
-      "sha256": "08ffab62ed5577e0dda88c20ecb959b81d27c2527d9e60db845fd4fdc1948d60",
+      "sha256": "73b166174099e4997f1fd129306050a230b977fb00fc1b92e08237e81cd37061",
       "size": 46626,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoplatformcore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoplatformcore",
       "side": "both"
@@ -1095,10 +1072,9 @@
     {
       "path": "mods/echorelictech-1.0.0-standalone.jar",
       "assetName": "echorelictech-1.0.0-standalone.jar",
-      "artifactName": "echorelictech-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echorelictech-1.0.0-standalone.jar",
-      "sha256": "a4a59fd878383d5c142347458be882be4b768f3778fe4a41552651076f0b09a9",
+      "sha256": "b1865e61a0e52665cc1f7b8fd3c62d1096aa04fa0dc30894a8f10ea7d0bdef0b",
       "size": 7709166,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echorelictech-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echorelictech",
       "side": "both"
@@ -1106,10 +1082,9 @@
     {
       "path": "mods/echoriftworlds-1.0.0-standalone.jar",
       "assetName": "echoriftworlds-1.0.0-standalone.jar",
-      "artifactName": "echoriftworlds-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoriftworlds-1.0.0-standalone.jar",
-      "sha256": "ad052a16b6936fe8235f8d169286ab3c3f1ef58251318cd0f4e3a0826287a77b",
+      "sha256": "49ba4059e5557dacc6db2812f6ddc89b0368ee026556a94c49afaab49bd8c8b2",
       "size": 33380,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoriftworlds-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoriftworlds",
       "side": "both"
@@ -1117,10 +1092,9 @@
     {
       "path": "mods/echoritualcore-1.0.0-standalone.jar",
       "assetName": "echoritualcore-1.0.0-standalone.jar",
-      "artifactName": "echoritualcore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoritualcore-1.0.0-standalone.jar",
-      "sha256": "08945958e257c53ed4b6f5cdbea828e129297c53aa8c56d43ebac58e3099929e",
+      "sha256": "2fd1d923577731d21987fd98226cade880ec92530d490de2266040d9090c1edb",
       "size": 105120,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoritualcore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoritualcore",
       "side": "both"
@@ -1128,10 +1102,9 @@
     {
       "path": "mods/echoruntimeguard-1.0.0-standalone.jar",
       "assetName": "echoruntimeguard-1.0.0-standalone.jar",
-      "artifactName": "echoruntimeguard-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoruntimeguard-1.0.0-standalone.jar",
-      "sha256": "46679ab9bf1e6df1eb467fb61444ff11828abffd95259732661a4ef022e90e79",
+      "sha256": "927979d825103b3704f2e5481a598df6ee90542cb5efd6dc02bdab30cf701b43",
       "size": 127439,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoruntimeguard-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoruntimeguard",
       "side": "both"
@@ -1139,10 +1112,9 @@
     {
       "path": "mods/echoschemacore-1.0.0-standalone.jar",
       "assetName": "echoschemacore-1.0.0-standalone.jar",
-      "artifactName": "echoschemacore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoschemacore-1.0.0-standalone.jar",
-      "sha256": "ebc8a5ab443d5c4550e75034b6c9e1d3ff257632ce192627c8d03ad115746f31",
+      "sha256": "8d95627cb483f60184490aa5d809628848b4b40cf02e11494b2e5030187d888b",
       "size": 30695,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoschemacore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoschemacore",
       "side": "both"
@@ -1150,10 +1122,9 @@
     {
       "path": "mods/echoscreencore-1.0.0-standalone.jar",
       "assetName": "echoscreencore-1.0.0-standalone.jar",
-      "artifactName": "echoscreencore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoscreencore-1.0.0-standalone.jar",
-      "sha256": "f6bffe016051bbb1ad97c23665c6390a032a47a094319b234223fbd0f25849e1",
+      "sha256": "4bd8de068be34d641fd5414c9c1869c2241ad9ca7624c4302c06d6775719fbea",
       "size": 392453,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoscreencore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoscreencore",
       "side": "both"
@@ -1161,10 +1132,9 @@
     {
       "path": "mods/echosoundcore-1.0.0-standalone.jar",
       "assetName": "echosoundcore-1.0.0-standalone.jar",
-      "artifactName": "echosoundcore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echosoundcore-1.0.0-standalone.jar",
-      "sha256": "17d05320e6c2a1350cc1ec056d143e5f69e816ce739834f8dd16ba0546631e8a",
+      "sha256": "d0ceadd62374ff5a9fa4911a2a9bc0276e4b0ed3ac033a8bc5f1cc2bd7e2768b",
       "size": 11079841,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echosoundcore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echosoundcore",
       "side": "both"
@@ -1172,10 +1142,9 @@
     {
       "path": "mods/echospellcore-1.0.0-standalone.jar",
       "assetName": "echospellcore-1.0.0-standalone.jar",
-      "artifactName": "echospellcore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echospellcore-1.0.0-standalone.jar",
-      "sha256": "5f99260365138d7c720359e23d59fa5124739554f3477b31cccfb3ee617696d2",
+      "sha256": "4875422f7f7dfbeeb62ccf5d6f566aaabcef70ef373f876fc41f14b26d2e39ad",
       "size": 167040,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echospellcore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echospellcore",
       "side": "both"
@@ -1183,10 +1152,9 @@
     {
       "path": "mods/echostationcore-0.1.0-standalone.jar",
       "assetName": "echostationcore-0.1.0-standalone.jar",
-      "artifactName": "echostationcore-0.1.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echostationcore-0.1.0-standalone.jar",
-      "sha256": "79051d67b7996f6f8497ff5d7925c7988ac62417fd4cd12391386268c4823af1",
+      "sha256": "6beb982df3fd5b15cfede6b9292aaa7b082ff24c7f2d93032e4a2560ff952ec0",
       "size": 9170,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echostationcore-0.1.0-standalone.jar",
       "required": true,
       "moduleId": "echostationcore",
       "side": "both"
@@ -1194,10 +1162,9 @@
     {
       "path": "mods/echoterminal-1.0.0-standalone.jar",
       "assetName": "echoterminal-1.0.0-standalone.jar",
-      "artifactName": "echoterminal-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoterminal-1.0.0-standalone.jar",
-      "sha256": "d3fccd81a0247b588a04ff9bd44181d4957cbc36b32848f7ec62a736d1567251",
+      "sha256": "4453978b180ef4b2df6a4e81caae9e1618f4772e1d3f519a4af1573f93aa3c02",
       "size": 22986185,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoterminal-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoterminal",
       "side": "both"
@@ -1205,10 +1172,9 @@
     {
       "path": "mods/echothemecore-1.3.0-standalone.jar",
       "assetName": "echothemecore-1.3.0-standalone.jar",
-      "artifactName": "echothemecore-1.3.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echothemecore-1.3.0-standalone.jar",
-      "sha256": "de1dfe5e380809dea72dc9794b2f6eff12f9285825f8a5c460d35cff7aebdfe6",
+      "sha256": "bd5bee32d68e3bb711722dd1c4b65a077a8b0e000a597fcacbc55e03ed7bee24",
       "size": 69621167,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echothemecore-1.3.0-standalone.jar",
       "required": true,
       "moduleId": "echothemecore",
       "side": "both"
@@ -1216,10 +1182,9 @@
     {
       "path": "mods/echotoolcore-0.1.0-standalone.jar",
       "assetName": "echotoolcore-0.1.0-standalone.jar",
-      "artifactName": "echotoolcore-0.1.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echotoolcore-0.1.0-standalone.jar",
-      "sha256": "55c8249566926f27d29d204bcc9b9759cc6a6b7e45457db32ceff5e268db3989",
+      "sha256": "2fba09fdaf6baccca49581624cac97381658d659d138f33720c57b87e10adfee",
       "size": 8982,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echotoolcore-0.1.0-standalone.jar",
       "required": true,
       "moduleId": "echotoolcore",
       "side": "both"
@@ -1227,10 +1192,9 @@
     {
       "path": "mods/echotutorialcore-1.0.0-standalone.jar",
       "assetName": "echotutorialcore-1.0.0-standalone.jar",
-      "artifactName": "echotutorialcore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echotutorialcore-1.0.0-standalone.jar",
-      "sha256": "e30319203f0d26be27672fe3cf1077325b8ce08826e99d352051cfeec07c06d3",
+      "sha256": "e18dd55ce11850370934cd78dedaf879b83e77e655aa4bf07563de1e046df76c",
       "size": 214981,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echotutorialcore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echotutorialcore",
       "side": "both"
@@ -1238,10 +1202,9 @@
     {
       "path": "mods/echovalidationcore-1.0.0-standalone.jar",
       "assetName": "echovalidationcore-1.0.0-standalone.jar",
-      "artifactName": "echovalidationcore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echovalidationcore-1.0.0-standalone.jar",
-      "sha256": "3752f1c046db9c93b79927af0b0b8b20380e1e28fbd9438a7a0945283fb709b5",
+      "sha256": "cb225e62372b01b27d853d42aadd8bf0d65def28b9edc8891e4d8826ffcd8170",
       "size": 41988,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echovalidationcore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echovalidationcore",
       "side": "both"
@@ -1249,10 +1212,9 @@
     {
       "path": "mods/echoworldcore-1.0.0-standalone.jar",
       "assetName": "echoworldcore-1.0.0-standalone.jar",
-      "artifactName": "echoworldcore-1.0.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoworldcore-1.0.0-standalone.jar",
-      "sha256": "3085dd429bb371b90550e48cbe74a8eed6f2145cbabc5587f3af0415f377fed6",
-      "size": 176866,
+      "sha256": "726023c813ae3bc321f1ea988731373ae190170fa04f677e2693686df81ce0a4",
+      "size": 177323,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoworldcore-1.0.0-standalone.jar",
       "required": true,
       "moduleId": "echoworldcore",
       "side": "both"
@@ -1260,10 +1222,9 @@
     {
       "path": "mods/echoworldstarter-0.1.0-standalone.jar",
       "assetName": "echoworldstarter-0.1.0-standalone.jar",
-      "artifactName": "echoworldstarter-0.1.0-standalone.jar",
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-install-fix-20260613/echoworldstarter-0.1.0-standalone.jar",
-      "sha256": "a48cd5fcd4ea099f5c1868992c780a76fbf99a258e4a0ab0c565476fa2ef8ff9",
+      "sha256": "6a28e67c43e5a316543fdb92c2c1a0ac029e76c959fa72fd72f31369e400bd3d",
       "size": 10295,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoworldstarter-0.1.0-standalone.jar",
       "required": true,
       "moduleId": "echoworldstarter",
       "side": "both"
@@ -1294,5 +1255,7 @@
   "updatedAt": "2026-06-14T00:31:23.575Z",
   "generatedBy": "scripts/rebuild-official-modpack-assets",
   "validation": "approved",
-  "manifestAsset": "arcana-division-standalone-edition-beta-1.0.0.pack.json"
+  "manifestAsset": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
+  "moduleRelease": "modules-all-official-modpacks-runtime-fix-20260614",
+  "moduleSourceRevision": "0beb164098526cf791cc6c649704e6a434769a17"
 }

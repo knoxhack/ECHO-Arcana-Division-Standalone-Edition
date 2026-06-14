@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-13T07:27:31.777Z",
+  "generatedAt": "2026-06-14T11:32:36.3586271Z",
   "repository": "knoxhack/ECHO-Arcana-Division-Standalone-Edition",
   "releaseTag": "arcana-division-standalone-1.0.0-beta",
   "status": "verified-prerelease-assets",
@@ -18,63 +18,414 @@
   "assets": [
     {
       "name": "arcana-division-standalone-edition-1.0.0.zip",
-      "size": 96158687,
-      "sha256": "ecbbc927bed6f623e4df65c8bd8233a4e4bc6203fcede4f3d19428b6a56fba55"
+      "size": 116889106,
+      "sha256": "e4b3f143127905acec8f2d3109994f2f36968901ed06365baaebfdc2688475be"
     },
     {
       "name": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
-      "size": 33428,
-      "sha256": "d105c75780a3feb7167bb21f2c23850a5cac885a443f023c359122dd263eb6d4"
+      "size": 53579,
+      "sha256": "dd2db0e6b1fe25e585e75719e0d786b067e0c16dd2b4a88f8b7eef11f32d9a6c"
     },
     {
       "name": "checksums.txt",
-      "size": 317,
-      "sha256": "45ac4b1da0384ed5987298d2cf58a3d3c0bf469ed7509fa5ea3d654cbd8bd9e3"
+      "size": 442,
+      "sha256": "3255bed1ee8245db6df457e9220528fe2d0b5060a48ace6a8cae8c558a093031"
     },
     {
       "name": "echo-release.json",
-      "size": 1829,
-      "sha256": "b7de526e9cb67ece6085f4c24079d85a6420149376b44622bb9313d39d7c7646"
+      "size": 11774,
+      "sha256": "e9bee879123fdc9d497d33c545dafea2c6f3c006a9ff83f268cd3b98a59bc857"
     }
   ],
   "zip": {
     "file": "arcana-division-standalone-edition-1.0.0.zip",
-    "entries": 26,
-    "sha256": "ecbbc927bed6f623e4df65c8bd8233a4e4bc6203fcede4f3d19428b6a56fba55"
+    "entries": 42,
+    "sha256": "e4b3f143127905acec8f2d3109994f2f36968901ed06365baaebfdc2688475be"
   },
   "checksumCoverage": {
-    "total": 3,
+    "total": 42,
     "releaseAssetFiles": 3,
-    "zipEntries": 0,
+    "zipEntries": 39,
     "missing": 0,
     "mismatched": 0
   },
   "checksumEntries": [
     {
-      "file": "arcana-division-standalone-edition-1.0.0.zip",
-      "expectedSha256": "ecbbc927bed6f623e4df65c8bd8233a4e4bc6203fcede4f3d19428b6a56fba55",
-      "actualSha256": "ecbbc927bed6f623e4df65c8bd8233a4e4bc6203fcede4f3d19428b6a56fba55",
-      "coveredBy": "release-asset-file",
-      "matchedPath": "arcana-division-standalone-edition-1.0.0.zip",
-      "size": 96158687,
-      "ok": true
-    },
-    {
       "file": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
-      "expectedSha256": "d105c75780a3feb7167bb21f2c23850a5cac885a443f023c359122dd263eb6d4",
-      "actualSha256": "d105c75780a3feb7167bb21f2c23850a5cac885a443f023c359122dd263eb6d4",
+      "expectedSha256": "dd2db0e6b1fe25e585e75719e0d786b067e0c16dd2b4a88f8b7eef11f32d9a6c",
+      "actualSha256": "dd2db0e6b1fe25e585e75719e0d786b067e0c16dd2b4a88f8b7eef11f32d9a6c",
       "coveredBy": "release-asset-file",
       "matchedPath": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
-      "size": 33428,
+      "size": 53579,
       "ok": true
     },
     {
       "file": "echo-release.json",
-      "expectedSha256": "b7de526e9cb67ece6085f4c24079d85a6420149376b44622bb9313d39d7c7646",
-      "actualSha256": "b7de526e9cb67ece6085f4c24079d85a6420149376b44622bb9313d39d7c7646",
+      "expectedSha256": "e9bee879123fdc9d497d33c545dafea2c6f3c006a9ff83f268cd3b98a59bc857",
+      "actualSha256": "e9bee879123fdc9d497d33c545dafea2c6f3c006a9ff83f268cd3b98a59bc857",
       "coveredBy": "release-asset-file",
       "matchedPath": "echo-release.json",
-      "size": 1829,
+      "size": 11774,
+      "ok": true
+    },
+    {
+      "file": "arcana-division-standalone-edition-1.0.0.zip",
+      "expectedSha256": "e4b3f143127905acec8f2d3109994f2f36968901ed06365baaebfdc2688475be",
+      "actualSha256": "e4b3f143127905acec8f2d3109994f2f36968901ed06365baaebfdc2688475be",
+      "coveredBy": "release-asset-file",
+      "matchedPath": "arcana-division-standalone-edition-1.0.0.zip",
+      "size": 116889106,
+      "ok": true
+    },
+    {
+      "file": "echoadaptercore-1.0.0-standalone.jar",
+      "expectedSha256": "69ff3d4405fd369301252354e0d1c924df414bfa27c71f8cbe3231ba54f529fc",
+      "actualSha256": "69ff3d4405fd369301252354e0d1c924df414bfa27c71f8cbe3231ba54f529fc",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoadaptercore-1.0.0-standalone.jar",
+      "size": 945079,
+      "ok": true
+    },
+    {
+      "file": "echoaetherworks-1.0.0-standalone.jar",
+      "expectedSha256": "a5b9e0a62279d3a1dac55f2a29c36b675f6d51f92fe879640e9822fd99c243ee",
+      "actualSha256": "a5b9e0a62279d3a1dac55f2a29c36b675f6d51f92fe879640e9822fd99c243ee",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoaetherworks-1.0.0-standalone.jar",
+      "size": 91160,
+      "ok": true
+    },
+    {
+      "file": "echoarcanacore-1.0.0-standalone.jar",
+      "expectedSha256": "487db7dc0b42c95f7232158efce334485148558562dd73d14e81d0bbe4dc84d6",
+      "actualSha256": "487db7dc0b42c95f7232158efce334485148558562dd73d14e81d0bbe4dc84d6",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoarcanacore-1.0.0-standalone.jar",
+      "size": 127310,
+      "ok": true
+    },
+    {
+      "file": "echoarcanadivisionprotocol-1.0.0-standalone.jar",
+      "expectedSha256": "5eb42d579fc1fbbdb626351a2c9522cdb31de88166de112ded6a4ca903ce66fd",
+      "actualSha256": "5eb42d579fc1fbbdb626351a2c9522cdb31de88166de112ded6a4ca903ce66fd",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoarcanadivisionprotocol-1.0.0-standalone.jar",
+      "size": 8358,
+      "ok": true
+    },
+    {
+      "file": "echoarcaneindex-1.0.0-standalone.jar",
+      "expectedSha256": "ac8eb789d7322f0f934753151b93d9ea127a691d77160637544a34724fb9e334",
+      "actualSha256": "ac8eb789d7322f0f934753151b93d9ea127a691d77160637544a34724fb9e334",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoarcaneindex-1.0.0-standalone.jar",
+      "size": 31393,
+      "ok": true
+    },
+    {
+      "file": "echoblockworks-1.0.0-standalone.jar",
+      "expectedSha256": "9d046c9688063056f562612c882820df35537ce77be5dcf3c422c374aca1f070",
+      "actualSha256": "9d046c9688063056f562612c882820df35537ce77be5dcf3c422c374aca1f070",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoblockworks-1.0.0-standalone.jar",
+      "size": 1302359,
+      "ok": true
+    },
+    {
+      "file": "echocodexcore-1.0.0-standalone.jar",
+      "expectedSha256": "0f206133582bc7161367fa87775ca71996a29fc03894537fb9c1c6c189174aac",
+      "actualSha256": "0f206133582bc7161367fa87775ca71996a29fc03894537fb9c1c6c189174aac",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echocodexcore-1.0.0-standalone.jar",
+      "size": 23040,
+      "ok": true
+    },
+    {
+      "file": "echocommonloot-0.1.0-standalone.jar",
+      "expectedSha256": "0145ccdf7d2847eef4e1863063222bc44768ac0e0c1ed78b3c2adc0bc837dbf7",
+      "actualSha256": "0145ccdf7d2847eef4e1863063222bc44768ac0e0c1ed78b3c2adc0bc837dbf7",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echocommonloot-0.1.0-standalone.jar",
+      "size": 7770,
+      "ok": true
+    },
+    {
+      "file": "echocontentcore-1.0.0-standalone.jar",
+      "expectedSha256": "f8a70917288bac4484c067d7f0852e5665c7946d62d1e9685b0855b45c66a948",
+      "actualSha256": "f8a70917288bac4484c067d7f0852e5665c7946d62d1e9685b0855b45c66a948",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echocontentcore-1.0.0-standalone.jar",
+      "size": 33258,
+      "ok": true
+    },
+    {
+      "file": "echocore-1.0.0-standalone.jar",
+      "expectedSha256": "31115ba0e5e6a4533a809e62a1c612e8e67a1211af1c5102c1da2fe13f204d2d",
+      "actualSha256": "31115ba0e5e6a4533a809e62a1c612e8e67a1211af1c5102c1da2fe13f204d2d",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echocore-1.0.0-standalone.jar",
+      "size": 368893,
+      "ok": true
+    },
+    {
+      "file": "echocreatureroles-0.1.0-standalone.jar",
+      "expectedSha256": "69073e0c2bf8b43b0662c5615dca5e0e882fb214240c855e8fbf47c0b1b3f949",
+      "actualSha256": "69073e0c2bf8b43b0662c5615dca5e0e882fb214240c855e8fbf47c0b1b3f949",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echocreatureroles-0.1.0-standalone.jar",
+      "size": 7615,
+      "ok": true
+    },
+    {
+      "file": "echocursecore-1.0.0-standalone.jar",
+      "expectedSha256": "ebe956ae0e4960cc9e98c3dda9e5066cd7a01c068b5ea1e87855b61c97303204",
+      "actualSha256": "ebe956ae0e4960cc9e98c3dda9e5066cd7a01c068b5ea1e87855b61c97303204",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echocursecore-1.0.0-standalone.jar",
+      "size": 64066,
+      "ok": true
+    },
+    {
+      "file": "echofamiliarcore-1.0.0-standalone.jar",
+      "expectedSha256": "638d2107d7d59b3fe1b0853d13b2a490b72240fd43d26da73595e22116c361ae",
+      "actualSha256": "638d2107d7d59b3fe1b0853d13b2a490b72240fd43d26da73595e22116c361ae",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echofamiliarcore-1.0.0-standalone.jar",
+      "size": 50019,
+      "ok": true
+    },
+    {
+      "file": "echofoundationcore-0.1.0-standalone.jar",
+      "expectedSha256": "f2567d80994fda7019d9c730b00567e2d26f0e3eb1e28393272e27990f13150d",
+      "actualSha256": "f2567d80994fda7019d9c730b00567e2d26f0e3eb1e28393272e27990f13150d",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echofoundationcore-0.1.0-standalone.jar",
+      "size": 10963,
+      "ok": true
+    },
+    {
+      "file": "echogrimoire-1.0.0-standalone.jar",
+      "expectedSha256": "cb34c89337ce45a94bfde74075a8829c896ebdb655c82bb811694ca01ce77fde",
+      "actualSha256": "cb34c89337ce45a94bfde74075a8829c896ebdb655c82bb811694ca01ce77fde",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echogrimoire-1.0.0-standalone.jar",
+      "size": 29510,
+      "ok": true
+    },
+    {
+      "file": "echoholomap-1.0.0-standalone.jar",
+      "expectedSha256": "604bd118662d6d0a6685ae74181003b64994f67493ac9094172e4f48bac28988",
+      "actualSha256": "604bd118662d6d0a6685ae74181003b64994f67493ac9094172e4f48bac28988",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoholomap-1.0.0-standalone.jar",
+      "size": 1496602,
+      "ok": true
+    },
+    {
+      "file": "echohudcore-1.0.0-standalone.jar",
+      "expectedSha256": "c51929866409c7f4ff743d5ef5097ca4e2be00093724aea29b8df3abc1256e77",
+      "actualSha256": "c51929866409c7f4ff743d5ef5097ca4e2be00093724aea29b8df3abc1256e77",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echohudcore-1.0.0-standalone.jar",
+      "size": 46577,
+      "ok": true
+    },
+    {
+      "file": "echoindex-1.0.0-standalone.jar",
+      "expectedSha256": "5d202f5cf39d3a3c6c691deb064a0c4014154694bb2037bda3dbcb5cae801d23",
+      "actualSha256": "5d202f5cf39d3a3c6c691deb064a0c4014154694bb2037bda3dbcb5cae801d23",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoindex-1.0.0-standalone.jar",
+      "size": 586916,
+      "ok": true
+    },
+    {
+      "file": "echolens-1.0.0-standalone.jar",
+      "expectedSha256": "70909522ee8bedece934e5789e2946245a9562550f2c2ce74fa7da3f397d3e7b",
+      "actualSha256": "70909522ee8bedece934e5789e2946245a9562550f2c2ce74fa7da3f397d3e7b",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echolens-1.0.0-standalone.jar",
+      "size": 215156,
+      "ok": true
+    },
+    {
+      "file": "echomaterialcore-0.1.0-standalone.jar",
+      "expectedSha256": "40cde0819c7dd9093f542ebf4231a0cc8ea2fbad64d0ce95753ae0950d9abd33",
+      "actualSha256": "40cde0819c7dd9093f542ebf4231a0cc8ea2fbad64d0ce95753ae0950d9abd33",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echomaterialcore-0.1.0-standalone.jar",
+      "size": 13223,
+      "ok": true
+    },
+    {
+      "file": "echomissioncore-1.0.0-standalone.jar",
+      "expectedSha256": "a3bed5c88c3ce7b8f5a65d6b777b55fe7f91327d01f75ad54f6cdb783f1336d1",
+      "actualSha256": "a3bed5c88c3ce7b8f5a65d6b777b55fe7f91327d01f75ad54f6cdb783f1336d1",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echomissioncore-1.0.0-standalone.jar",
+      "size": 103747,
+      "ok": true
+    },
+    {
+      "file": "echonetcore-1.0.0-standalone.jar",
+      "expectedSha256": "1acc9270e60b15429bd65aed07b2c8c17359642b2fb564c85c386151c17d0f39",
+      "actualSha256": "1acc9270e60b15429bd65aed07b2c8c17359642b2fb564c85c386151c17d0f39",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echonetcore-1.0.0-standalone.jar",
+      "size": 68877,
+      "ok": true
+    },
+    {
+      "file": "echoplatformcore-1.0.0-standalone.jar",
+      "expectedSha256": "3c7cd0fab24506d211dadcb6774948acabe657cb89666767ccc2fd748ce76b51",
+      "actualSha256": "3c7cd0fab24506d211dadcb6774948acabe657cb89666767ccc2fd748ce76b51",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoplatformcore-1.0.0-standalone.jar",
+      "size": 46626,
+      "ok": true
+    },
+    {
+      "file": "echorelictech-1.0.0-standalone.jar",
+      "expectedSha256": "ebc55dc32f89ed7df6501ed893427b67d3cd7d3effadce2d266ab4b65006f85a",
+      "actualSha256": "ebc55dc32f89ed7df6501ed893427b67d3cd7d3effadce2d266ab4b65006f85a",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echorelictech-1.0.0-standalone.jar",
+      "size": 7709166,
+      "ok": true
+    },
+    {
+      "file": "echoriftworlds-1.0.0-standalone.jar",
+      "expectedSha256": "268292b15e306143b1e7898c9a7c866ebf55f582925f423a689e04c71d82a273",
+      "actualSha256": "268292b15e306143b1e7898c9a7c866ebf55f582925f423a689e04c71d82a273",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoriftworlds-1.0.0-standalone.jar",
+      "size": 33380,
+      "ok": true
+    },
+    {
+      "file": "echoritualcore-1.0.0-standalone.jar",
+      "expectedSha256": "1a4e6190488c2ff6b90f78eb293c1b8ba25f40d449100b8a3228b3b0e4861a21",
+      "actualSha256": "1a4e6190488c2ff6b90f78eb293c1b8ba25f40d449100b8a3228b3b0e4861a21",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoritualcore-1.0.0-standalone.jar",
+      "size": 105120,
+      "ok": true
+    },
+    {
+      "file": "echoruntimeguard-1.0.0-standalone.jar",
+      "expectedSha256": "0da962e0def0e57dc4d488a0d1d554eeee8961c4e123d1ce753927d070efd596",
+      "actualSha256": "0da962e0def0e57dc4d488a0d1d554eeee8961c4e123d1ce753927d070efd596",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoruntimeguard-1.0.0-standalone.jar",
+      "size": 127439,
+      "ok": true
+    },
+    {
+      "file": "echoschemacore-1.0.0-standalone.jar",
+      "expectedSha256": "cb3661dc676e8bc7f6ed7b70791a6698e72dfeef16f6785f0f6f0a77fe8bd0f1",
+      "actualSha256": "cb3661dc676e8bc7f6ed7b70791a6698e72dfeef16f6785f0f6f0a77fe8bd0f1",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoschemacore-1.0.0-standalone.jar",
+      "size": 30695,
+      "ok": true
+    },
+    {
+      "file": "echoscreencore-1.0.0-standalone.jar",
+      "expectedSha256": "5a353f16e81861d93e55325db62f973fb5ed8ec934a3f243ee8e18120f4e180d",
+      "actualSha256": "5a353f16e81861d93e55325db62f973fb5ed8ec934a3f243ee8e18120f4e180d",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoscreencore-1.0.0-standalone.jar",
+      "size": 392453,
+      "ok": true
+    },
+    {
+      "file": "echosoundcore-1.0.0-standalone.jar",
+      "expectedSha256": "c36e25fbd7477e6f965a0438feb37fe29a788946b337418c45b4cca2bddda47b",
+      "actualSha256": "c36e25fbd7477e6f965a0438feb37fe29a788946b337418c45b4cca2bddda47b",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echosoundcore-1.0.0-standalone.jar",
+      "size": 11079841,
+      "ok": true
+    },
+    {
+      "file": "echospellcore-1.0.0-standalone.jar",
+      "expectedSha256": "c64fc4f94536e312f612b210343e3e282d1273b301fb4c0ba0a733e4beb7968c",
+      "actualSha256": "c64fc4f94536e312f612b210343e3e282d1273b301fb4c0ba0a733e4beb7968c",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echospellcore-1.0.0-standalone.jar",
+      "size": 167040,
+      "ok": true
+    },
+    {
+      "file": "echostationcore-0.1.0-standalone.jar",
+      "expectedSha256": "76438e766600ae7073876306ad5740dba0dafbab2700ce659c2f885b0dbe8e90",
+      "actualSha256": "76438e766600ae7073876306ad5740dba0dafbab2700ce659c2f885b0dbe8e90",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echostationcore-0.1.0-standalone.jar",
+      "size": 9170,
+      "ok": true
+    },
+    {
+      "file": "echoterminal-1.0.0-standalone.jar",
+      "expectedSha256": "73bb3c322aaf75da994f7bedb0165808f2cc37f2a85b622669903d78f30ac76d",
+      "actualSha256": "73bb3c322aaf75da994f7bedb0165808f2cc37f2a85b622669903d78f30ac76d",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoterminal-1.0.0-standalone.jar",
+      "size": 22986185,
+      "ok": true
+    },
+    {
+      "file": "echothemecore-1.3.0-standalone.jar",
+      "expectedSha256": "0dbf08e3f31a0b1c269a44b417aed673517d8fd3548beaa31ae7d14ae5ec5aed",
+      "actualSha256": "0dbf08e3f31a0b1c269a44b417aed673517d8fd3548beaa31ae7d14ae5ec5aed",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echothemecore-1.3.0-standalone.jar",
+      "size": 69621167,
+      "ok": true
+    },
+    {
+      "file": "echotoolcore-0.1.0-standalone.jar",
+      "expectedSha256": "bae54855dffa7f10c396fdb7716b4221189c81747ffac3fac2fc14727270df7d",
+      "actualSha256": "bae54855dffa7f10c396fdb7716b4221189c81747ffac3fac2fc14727270df7d",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echotoolcore-0.1.0-standalone.jar",
+      "size": 8982,
+      "ok": true
+    },
+    {
+      "file": "echotutorialcore-1.0.0-standalone.jar",
+      "expectedSha256": "a17c4ab33b9df3e5718b5e854aa45b10db928a0286fec32fcc961884971ccc66",
+      "actualSha256": "a17c4ab33b9df3e5718b5e854aa45b10db928a0286fec32fcc961884971ccc66",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echotutorialcore-1.0.0-standalone.jar",
+      "size": 214981,
+      "ok": true
+    },
+    {
+      "file": "echovalidationcore-1.0.0-standalone.jar",
+      "expectedSha256": "dd870a9613d88624b29cd447547da4c2a651aadd8fd64636be7c8330a21dbd2d",
+      "actualSha256": "dd870a9613d88624b29cd447547da4c2a651aadd8fd64636be7c8330a21dbd2d",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echovalidationcore-1.0.0-standalone.jar",
+      "size": 41988,
+      "ok": true
+    },
+    {
+      "file": "echoworldcore-1.0.0-standalone.jar",
+      "expectedSha256": "c6d2710827b039b051ecf18286617d39bbf7ab73e926caf21ea77ebdf99b692b",
+      "actualSha256": "c6d2710827b039b051ecf18286617d39bbf7ab73e926caf21ea77ebdf99b692b",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoworldcore-1.0.0-standalone.jar",
+      "size": 177323,
+      "ok": true
+    },
+    {
+      "file": "echoworldstarter-0.1.0-standalone.jar",
+      "expectedSha256": "ce43a4f211da6b9a3b1f0d8dc04af07f8c60899117ac81a733d43023c9fff9b1",
+      "actualSha256": "ce43a4f211da6b9a3b1f0d8dc04af07f8c60899117ac81a733d43023c9fff9b1",
+      "coveredBy": "zip-entry",
+      "matchedPath": "mods/echoworldstarter-0.1.0-standalone.jar",
+      "size": 10295,
       "ok": true
     }
   ],

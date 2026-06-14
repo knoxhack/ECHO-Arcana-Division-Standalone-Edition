@@ -1,3 +1,4 @@
-03499a095e056dbe97789ad0d3d2d4776a9d8358455eb3fff4c91218e255cf05  arcana-division-standalone-edition-beta-1.0.0.pack.json
-229f53e3b35b224b79c79b4443eff38993f0f44423f800a88d1c530b6c6f086a  echo-release.json
-e569ccb9a378925a3c2e97d58cad914d25b1f2b63566f0a6053d78439db6e5a4  arcana-division-standalone-edition-1.0.0.zip
+﻿92e02c05ab80cfe8115e52a7e826a4d5fd35de5305ce847463585b200df71f79  arcana-division-standalone-edition-beta-1.0.0.pack.json
+e9bee879123fdc9d497d33c545dafea2c6f3c006a9ff83f268cd3b98a59bc857  echo-release.json
+e4b3f143127905acec8f2d3109994f2f36968901ed06365baaebfdc2688475be  arcana-division-standalone-edition-1.0.0.zip
+dd2db0e6b1fe25e585e75719e0d786b067e0c16dd2b4a88f8b7eef11f32d9a6c  arcana-division-standalone-edition-beta-1.0.0.pack.json

@@ -1,40 +1,44 @@
 {
-  "schemaVersion": "echo.pack.release.v1",
-  "id": "arcana-division-standalone-edition",
+  "formatVersion": 2,
+  "pack": "arcana-division-standalone-edition",
   "name": "Arcana Division Standalone Edition",
   "version": "1.0.0",
   "channel": "beta",
-  "target": "standalone",
-  "releaseTag": "arcana-division-standalone-1.0.0-beta",
-  "generatedAt": "2026-06-12T09:47:04.237Z",
-  "sourceRepo": "https://github.com/knoxhack/ECHO-Arcana-Division-Standalone-Edition",
-  "moduleReleaseId": "modules-arcana-division-1.0.0-beta",
-  "moduleReleaseSource": "https://github.com/knoxhack/ECHO-Modules",
-  "moduleRequirementCount": 39,
-  "packRoot": {
-    "id": "echoarcanadivisionprotocol",
-    "version": "1.0.0"
-  },
-  "artifacts": {
-    "pack": {
-      "role": "pack",
-      "file": "arcana-division-standalone-edition-1.0.0.zip",
-      "sha256": "ecbbc927bed6f623e4df65c8bd8233a4e4bc6203fcede4f3d19428b6a56fba55",
-      "size": 96158687,
-      "url": "https://github.com/knoxhack/ECHO-Arcana-Division-Standalone-Edition/releases/download/arcana-division-standalone-1.0.0-beta/arcana-division-standalone-edition-1.0.0.zip"
-    },
-    "manifest": {
-      "role": "manifest",
-      "file": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
-      "sha256": "d105c75780a3feb7167bb21f2c23850a5cac885a443f023c359122dd263eb6d4",
-      "size": 33428,
-      "url": "https://github.com/knoxhack/ECHO-Arcana-Division-Standalone-Edition/releases/download/arcana-division-standalone-1.0.0-beta/arcana-division-standalone-edition-beta-1.0.0.pack.json"
-    }
-  },
-  "validation": {
-    "state": "warning",
-    "reason": "Local beta artifacts generated; promote to approved after GitHub release asset URLs, sizes, and hashes are indexed."
-  },
+  "releasedAt": "2026-06-14T00:31:23.596Z",
   "manifestAsset": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
-  "manifestSha256": "d105c75780a3feb7167bb21f2c23850a5cac885a443f023c359122dd263eb6d4"
+  "manifestSha256": "a4d2417456da11f84b08a263afaa3a3249b24ab8c5fcbbd2c61a2693a631e425",
+  "manifestSize": 53431,
+  "artifactMode": "zip",
+  "artifactAsset": "arcana-division-standalone-edition-1.0.0.zip",
+  "artifactSha256": "5da00695bca221b4eae81cad293eb3e875c07d20c7eb81b9fd90bf0e4ba43e11",
+  "artifactSize": 7396,
+  "moduleRelease": "modules-all-official-modpacks-install-fix-20260613",
+  "packs": [
+    {
+      "pack": "arcana-division-standalone-edition",
+      "name": "Arcana Division Standalone Edition",
+      "version": "1.0.0",
+      "channel": "beta",
+      "manifestAsset": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
+      "artifactAsset": "arcana-division-standalone-edition-1.0.0.zip"
+    }
+  ],
+  "assets": [
+    {
+      "name": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
+      "role": "pack-manifest",
+      "sha256": "a4d2417456da11f84b08a263afaa3a3249b24ab8c5fcbbd2c61a2693a631e425",
+      "size": 53431
+    },
+    {
+      "name": "arcana-division-standalone-edition-1.0.0.zip",
+      "role": "pack-artifact",
+      "sha256": "5da00695bca221b4eae81cad293eb3e875c07d20c7eb81b9fd90bf0e4ba43e11",
+      "size": 7396
+    }
+  ],
+  "notes": [
+    "Rebuilt arcana-division-standalone-edition against approved module release modules-all-official-modpacks-install-fix-20260613.",
+    "Manifest files contain GitHub HTTPS URLs for every module artifact used by install, repair, and update."
+  ]
 }

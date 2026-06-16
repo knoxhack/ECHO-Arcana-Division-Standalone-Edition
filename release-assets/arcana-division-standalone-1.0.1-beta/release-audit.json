@@ -5,20 +5,20 @@
   "name": "Arcana Division Standalone Edition",
   "version": "1.0.1",
   "channel": "beta",
-  "moduleRelease": "release-index-current-module-artifacts-20260616",
-  "moduleSourceRevision": "ECHO-Release-Index modules/*.json current artifacts, 2026-06-16",
+  "moduleRelease": "modules-canonical-full-20260616",
+  "moduleSourceRevision": "ECHO-Modules modules-canonical-full-20260616 (9f25b667), 2026-06-16",
   "releaseTag": "arcana-division-standalone-1.0.1-beta",
   "sourceRepo": "knoxhack/ECHO-Arcana-Division-Standalone-Edition",
   "moduleCount": 39,
   "artifact": {
     "name": "arcana-division-standalone-edition-1.0.1.zip",
-    "sha256": "a57eba946b87d798684a04412a679d26b416339b4e6295d9ef8fcb58cc1e8c95",
-    "size": 117199656
+    "sha256": "52703ee4be6ab1d6b0ead77c1732dbe84d8b4104f63bbbddaca6e094aaf92d75",
+    "size": 117197399
   },
   "manifest": {
     "name": "arcana-division-standalone-edition-beta-1.0.1.pack.json",
-    "sha256": "870724357dcd91214468cf459ec94361ddb241007dc9cc075a7da7efb998e29c",
-    "size": 57250
+    "sha256": "81963f32ef75bbe66f354496c49b6323b7505de8480faf09432428af52a97171",
+    "size": 55978
   },
-  "generatedAt": "2026-06-16T10:09:39.080Z"
+  "generatedAt": "2026-06-16T15:35:15.856Z"
 }

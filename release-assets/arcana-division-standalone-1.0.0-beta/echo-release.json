@@ -4,14 +4,14 @@
   "name": "Arcana Division Standalone Edition",
   "version": "1.0.0",
   "channel": "beta",
-  "releasedAt": "2026-06-16T00:35:22.164Z",
+  "releasedAt": "2026-06-16T01:21:09.159Z",
   "manifestAsset": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
-  "manifestSha256": "f946ac8630b62b755af7073c8c6497d4d8739f55f0b2f316f65b457393fa3b9a",
-  "manifestSize": 55307,
+  "manifestSha256": "a4f294531483916f146d025e9255f2691443a63a5799a73fdde6eb263ea54325",
+  "manifestSize": 56865,
   "artifactMode": "zip",
   "artifactAsset": "arcana-division-standalone-edition-1.0.0.zip",
-  "artifactSha256": "2e809c35284ad14172c6be83fdc678439882811e5d7b5f2858137292c08f3cc2",
-  "artifactSize": 118753625,
+  "artifactSha256": "6cccca4cc6940ec142a8787e0af92718d96d48298887775ea173eebed12898f3",
+  "artifactSize": 117196985,
   "moduleRelease": "release-index-current-module-artifacts-20260616",
   "packs": [
     {
@@ -27,21 +27,21 @@
     {
       "name": "arcana-division-standalone-edition-beta-1.0.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "f946ac8630b62b755af7073c8c6497d4d8739f55f0b2f316f65b457393fa3b9a",
-      "size": 56887
+      "sha256": "a4f294531483916f146d025e9255f2691443a63a5799a73fdde6eb263ea54325",
+      "size": 56865
     },
     {
       "name": "arcana-division-standalone-edition-1.0.0.zip",
       "role": "pack-artifact",
-      "sha256": "2e809c35284ad14172c6be83fdc678439882811e5d7b5f2858137292c08f3cc2",
-      "size": 118753625
+      "sha256": "6cccca4cc6940ec142a8787e0af92718d96d48298887775ea173eebed12898f3",
+      "size": 117196985
     },
     {
       "name": "echoadaptercore-1.0.0-standalone.jar",
       "role": "pack-file",
       "path": "mods/echoadaptercore-1.0.0-standalone.jar",
-      "sha256": "58172c454a08644d794b0d4a29d1a7b5bab8651c6657006a8caa091fbf308188",
-      "size": 957538
+      "sha256": "06e762775bab4ae85178d8ce8af4ad0065fb95aa033841c8290d9b756b84fb21",
+      "size": 970532
     },
     {
       "name": "echoaetherworks-1.0.0-standalone.jar",

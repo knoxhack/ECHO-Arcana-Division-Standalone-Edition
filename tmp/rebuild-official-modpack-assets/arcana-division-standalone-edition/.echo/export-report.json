@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "echo.official_modpack.export_report.v1",
+  "status": "rebuilt",
+  "pack": "arcana-division-standalone-edition",
+  "name": "Arcana Division Standalone Edition",
+  "channel": "beta",
+  "version": "1.0.2",
+  "runtimeTarget": "echo_runtime_standalone",
+  "moduleArtifactFamily": "standalone",
+  "moduleRelease": "modules-beta-full-20260620",
+  "moduleCount": 39,
+  "generatedAt": "2026-06-20T04:40:59.524Z",
+  "sourceRepo": "knoxhack/ECHO-Arcana-Division-Standalone-Edition",
+  "releaseTag": "arcana-division-standalone-1.0.2-beta"
+}
